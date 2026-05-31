@@ -1,0 +1,9 @@
+email,first_name,last_name,company,job_title,phone,country,lead_source
+john.doe@stripe.com,John,Doe,Stripe,VP of Sales,+1-555-0101,United States,Google Ads
+sarah.k@notion.so,Sarah,Kim,Notion,Head of Growth,+1-555-0102,United States,LinkedIn
+mike.okonkwo@paystack.com,Mike,Okonkwo,Paystack,CTO,,Nigeria,Referral
+aisha.mwangi@safaricom.co.ke,Aisha,Mwangi,Safaricom,Digital Lead,+254-700-000001,Kenya,Organic
+peter.njoroge@twiga.com,Peter,Njoroge,Twiga Foods,Operations Manager,,Kenya,Cold Outreach
+linda.chen@shopify.com,Linda,Chen,Shopify,RevOps Lead,+1-555-0103,Canada,LinkedIn
+james.odhiambo@flutterwave.com,James,Odhiambo,Flutterwave,GTM Engineer,,Nigeria,Referral
+amira.hassan@andela.com,Amira,Hassan,Andela,Sales Director,+234-800-000001,Nigeria,Event
