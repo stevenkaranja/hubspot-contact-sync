@@ -1,6 +1,6 @@
 # HubSpot Contact Sync
 
-> Sync contacts from Google Sheets (or CSV) into HubSpot — with deduplication, field mapping, and upsert logic.
+Sync contacts from Google Sheets (or CSV) into HubSpot with deduplication, field mapping, and upsert logic.
 
 No more manual copy-paste between spreadsheets and your CRM. This tool reads your lead list, maps columns to HubSpot properties, deduplicates by email, and syncs everything in one command.
 
